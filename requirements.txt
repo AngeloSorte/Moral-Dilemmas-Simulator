@@ -1,0 +1,7 @@
+# Requirements for Moral Dilemmas Simulator
+# Only standard libraries are used, so technically no additional installs needed
+# Listed here for clarity and future scalability
+
+csv
+json
+datetime
